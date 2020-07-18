@@ -292,7 +292,7 @@ h3 {
     font-size: 30px;
 }
 h4 {
-    font-size: 24px; 
+    font-size: 24px;
 }
 h5 {
     font-size: 22px;
@@ -868,12 +868,11 @@ button#searchsubmit {
 .exp-banner-head-team1,
 .exp-banner-head-team-3,
 .exp-banner-head-team-4{
-	background-image: url(https://via.placeholder.com/1925x865.jpg/09f/fff);
-	background-size: cover;
-	background-position: center;
+	/*background-image: url('../banner.png');*/
+	background-color: black;
+	/*background-size: cover;
+	background-position: center;*/
 }
-
-
 
 .exp-banner-head .section-title-center h1 {
 	margin-bottom: 10px;
