@@ -107,7 +107,7 @@ body {
 	transition: 0.3s;
 }
 .section-padding {
-	padding: 120px 0;
+	padding: 60px 0;
 }
 
 .section-title-center {
@@ -841,7 +841,7 @@ button#searchsubmit {
 	outline: 0;
 }
 .header-button a i{
-	transform: rotate(-45deg);
+	/*transform: rotate(-45deg);*/
 }
 .show#searchLink a i:before{
 	content: "\f057";
